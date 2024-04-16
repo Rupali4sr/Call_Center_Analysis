@@ -7,14 +7,16 @@ As a part of the PWC Switzerland Virtual Internship Program offered by Forage, I
 To deliver meaningful insights and actionable information to empover the Call Center.
 
 # 🔍 Exploring Insights
-1) Agent Performance
+ Agent Performance
    * Identify top performing agent based on number of calls answerd and resolved.
    * Analyse the distribution of call duration and satisfaction rating.
-2) Call Volume Trend
+ Call Volume Trend
    * Visualize trends in call volume over time to identify peak hours/day.
    * Determine if there is any seasonal patterns or spike in call volume.
-3) Customer Satisfaction
+ Customer Satisfaction
    * Track customer satisfaction rating across different agents.
+   * Identify factors contributing high or low customer satisfaction scores.
+   
 
   These insights will provide valuable insights into the performance and efficiency of call service center, enabling data-driven decision-making  to enhance customer satisfaction and operational effectiveness.
   
